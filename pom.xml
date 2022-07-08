@@ -165,7 +165,7 @@
     <jsr311-api.version>1.1.1</jsr311-api.version>
     <jaxb-api.version>2.2.7</jaxb-api.version>
     <jsp.version>2.1</jsp.version>
-    <jsch.version>0.1.51</jsch.version>
+    <jsch.version>0.1.54</jsch.version>
     <junit.version>4.11</junit.version>
     <log4j.version>1.2.17</log4j.version>
     <metrics.version>3.0.1</metrics.version>
